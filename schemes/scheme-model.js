@@ -7,7 +7,7 @@ module.exports = {
     add,
     update,
     remove,
-    // addStep
+    addStep
 }
 
 function find() {
